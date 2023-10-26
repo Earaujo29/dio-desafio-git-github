@@ -1,6 +1,6 @@
 ## dio-desafio-git-github
 
-# Repositório para desafio GIT/GITHUB da DIO 
+# Repositório desafio GIT/GitHub da DIO 
 <p>🧠 Respositório criado para o desafio GIT/GitHub.</p>
 
 ## Links Úteis 
